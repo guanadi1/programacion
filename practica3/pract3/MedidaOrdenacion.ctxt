@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=int[]\ crearArrayAleatorio(int)
+comment0.text=\ Genera\ un\ array\ de\ int\ de\ talla\ t\ con\ valores\ comprendidos\ entre\ 0\ y\ t.\n\ @param\ int\ la\ talla\n\ @result\ int[]\ el\ array\ generado\n
+comment1.params=t
+comment1.target=int[]\ crearArrayOrdCreciente(int)
+comment1.text=\ Genera\ un\ array\ de\ int\ de\ talla\ t\ ordenado\ de\ forma\ creciente.\n\ @param\ int\ la\ talla\n\ @result\ int[]\ el\ array\ generado\n
+comment2.params=t
+comment2.target=int[]\ crearArrayOrdDecreciente(int)
+comment2.text=\ Genera\ un\ array\ de\ int\ de\ talla\ t\ ordenado\ de\ forma\ decreciente.\n\ @param\ int\ la\ talla\n\ @result\ int[]\ el\ array\ generado\n
+comment3.params=
+comment3.target=void\ medidaSeleccion()
+comment4.params=
+comment4.target=void\ medidaInsercion()
+comment5.params=
+comment5.target=void\ medidaMergeSort()
+comment6.params=
+comment6.target=void\ uso()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
